@@ -1,0 +1,11 @@
+Model Information:
+* title:	Simple Box
+* source:	https://sketchfab.com/3d-models/simple-box-86a06237b9ab4ca2b86df9745c641917
+* author:	Fex (https://sketchfab.com/xfxyjwf)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Simple Box" (https://sketchfab.com/3d-models/simple-box-86a06237b9ab4ca2b86df9745c641917) by Fex (https://sketchfab.com/xfxyjwf) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
