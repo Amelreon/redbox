@@ -8,7 +8,7 @@ let gltfLoader = new GLTFLoader();
 let gltfLoader2 = new GLTFLoader();
 
 // Debug
-const gui = new dat.GUI();
+
 
 // Canvas
 const canvas = document.querySelector("canvas.webgl");
